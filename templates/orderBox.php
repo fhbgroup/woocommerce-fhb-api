@@ -27,7 +27,13 @@
 		</tr>
 	</table>
 
-	<button type="button" data-url="<?php echo admin_url("admin-ajax.php?action=fhb_kika_export_order&order=$post_id&nonce=$nonce") ?>" class="button kika-order-ajax" data-progress-text="Exportujem..." data-spinner="#product-spinner">
+	<button type="button" data-url="<?php 
+	echo add_query_arg( array(
+			'action' => 'fhb_kika_export_order',
+			'order' => $post_id,
+			'nonce'	=> $nonce,
+		), admin_url( 'admin-ajax.php' ) );
+	?>" class="button kika-order-ajax" data-progress-text="Exportujem..." data-spinner="#product-spinner">
 		Export...
 	</button>
 
