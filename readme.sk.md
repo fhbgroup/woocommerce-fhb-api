@@ -1,4 +1,4 @@
-# ** TENTO PLUGIN JE NEAKTUÁLNY, AKTUÁLNY PLUGIN [TU](https://github.com/fhbgroup/woo-fulfillment-fhb/) **
+# TENTO PLUGIN JE NEAKTUÁLNY, AKTUÁLNY PLUGIN [TU](https://github.com/fhbgroup/woo-fulfillment-fhb/)
 
 # Fullfilment by FHB - woocommerce plugin
 Plugin slúžiaci na prepojenie s woocommerce s fullfilment systémom ZOE
