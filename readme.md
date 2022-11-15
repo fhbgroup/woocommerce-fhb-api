@@ -1,3 +1,5 @@
+# ** THIS PLUGIN IS DEPRECATED, LINK TO CURRENT PLUGIN [HERE](https://github.com/fhbgroup/woo-fulfillment-fhb/) **
+
 # Fullfilment by FHB - woocommerce plugin
 Plugin for integration woocommerce store with ZOE fullfilment system
 
